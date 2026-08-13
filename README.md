@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola👋 Soy Eduardo
 
-<!--
-**Musashii1/Musashii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **décimo semestre de Ingeniería de Sistemas**, enfocado en **Ciberseguridad, Redes y Administración de Sistemas Linux**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+* **Sistemas Operativos:** Ubuntu Server, Fedora Linux, Kali Linux
+* **Herramientas de Red & Seguridad:** Nmap, Wireshark, Metasploit, GNS3
+* **Virtualización e Infraestructura:** Hyper-V, VirtualBox
+
+---
+
+### 📌 Proyectos Destacados
+
+* 🛡️ **Laboratorio de Pentesting & Vulnerability Assessment**  
+  Entorno de auditoría seguridad ofensiva utilizando **Kali Linux** para análisis de vulnerabilidades y explotación controlada sobre máquinas objetivo (**Metasploitable**).
+
+* 🖥️ **Despliegue y Configuración de Servidor Linux (Hyper-V)**  
+  Aprovisionamiento de un entorno **Ubuntu Server** sobre Hyper-V, incluyendo resolución de incidencias de red (DNS/Interfaces), configuración de accesibilidad a Internet y gestión de servicios en segundo plano.
+
+---
+
+### 📫 Contacto
+* 💼 **LinkedIn:** [Eduardo Santana/https://www.linkedin.com/in/eduardo-santana-afanador-1593a1303/]
+* ✉️ **Email:** [eduardo.santana.sys@gmail.com]
