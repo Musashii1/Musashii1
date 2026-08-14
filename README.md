@@ -17,7 +17,7 @@ Estudiante de **décimo semestre de Ingeniería de Sistemas**, enfocado en **Cib
 * 🛡️ **Laboratorio de Pentesting & Vulnerability Assessment**  
   Entorno de auditoría seguridad ofensiva utilizando **Kali Linux** para análisis de vulnerabilidades y explotación controlada sobre máquinas objetivo (**Metasploitable**).
 
-* 🖥️ **Despliegue y Configuración de Servidor Linux (Hyper-V)**  
+* 🖥️ [**Despliegue y Configuración de Servidor Linux (Hyper-V)**](https://github.com/Musashii1/linux-bedrock-server-deployment)  
   Aprovisionamiento de un entorno **Ubuntu Server** sobre Hyper-V, incluyendo resolución de incidencias de red (DNS/Interfaces), configuración de accesibilidad a Internet y gestión de servicios en segundo plano.
 
 ---
