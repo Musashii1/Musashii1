@@ -14,7 +14,7 @@ Estudiante de **décimo semestre de Ingeniería de Sistemas**, enfocado en **Cib
 
 ### 📌 Proyectos Destacados
 
-* 🛡️ **Laboratorio de Pentesting & Vulnerability Assessment**  
+* 🛡️ [**Laboratorio de Pentesting & Vulnerability Assessment**](https://github.com/Musashii1/pentesting-automation-fastapi)
   Entorno de auditoría seguridad ofensiva utilizando **Kali Linux** para análisis de vulnerabilidades y explotación controlada sobre máquinas objetivo (**Metasploitable**).
 
 * 🖥️ [**Despliegue y Configuración de Servidor Linux (Hyper-V)**](https://github.com/Musashii1/linux-bedrock-server-deployment)  
