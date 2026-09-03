@@ -23,5 +23,5 @@ Estudiante de **décimo semestre de Ingeniería de Sistemas**, enfocado en **Cib
 ---
 
 ### 📫 Contacto
-* 💼 **LinkedIn:** [Eduardo Santana/https://www.linkedin.com/in/eduardo-santana-afanador-1593a1303/]
+* 💼 **LinkedIn:** [Eduardo Santana](https://www.linkedin.com/in/eduardo-santana-afanador-1593a1303/)
 * ✉️ **Email:** [eduardo.santana.sys@gmail.com]
